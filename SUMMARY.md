@@ -12,7 +12,8 @@
 
 ## App V1.0
 
-* [Mapping](app-v1.0/mapping.md)
+* [Wire-frame analyst](app-v1.0/wire-frame-analyst.md)
+* [Flow & diagram](app-v1.0/mapping.md)
 * [Interface](app-v1.0/interface.md)
 * [Media](app-v1.0/media.md)
 
